@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Like The Bruce said: 
+>Be like water! :water_polo:
 Use the left arrow to go back!
